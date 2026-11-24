@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.env*
+!.env.example
+
+# Local review material; keep the public repository focused on the website.
+/AGENTS.md
+/assets/reference-sites/
+/assets/source-images/*
+!/assets/source-images/README.md
+/src/config/private-business.ts
